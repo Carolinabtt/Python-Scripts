@@ -105,7 +105,7 @@ except:
 
 address = 'carolina.battaglia@gmail.com'
 user = 'carolina.battaglia@gmail.com'
-password = 'Tash2945'
+password = 'XXXX'
 
 servername = 'smtps.gmail.com'
 server = SMTP.connect(host=servername, port=0)
